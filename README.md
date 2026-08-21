@@ -1,6 +1,6 @@
 # 🧑‍💻 Hey 👋, I'm Pragyan Singh 🚀
 
-### 🚀 CSE AI & ML Student | Python | Java | JavaScript | AI & ML
+### 🚀 CSE AI & ML Student | Python | C-Programming | Java | JavaScript | AI & ML
 
 I'm a passionate Computer Science student interested in **Artificial Intelligence, Machine Learning, Software Development, and Web Development**. I enjoy building projects, learning new technologies, and improving my programming skills every day. 💻🔥
 
